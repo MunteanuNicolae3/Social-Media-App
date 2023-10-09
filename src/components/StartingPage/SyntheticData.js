@@ -2,17 +2,17 @@ export const Users = [
   {
     id:1,
     profilePicture: "assets/person/1.jpg",
-    username: "Vladimir Putin",
+    username: "Vladimir ",
   },
   {
     id:2,
     profilePicture: "assets/person/2.jpg",
-    username: "Klaus Iohanis",
+    username: "Klaus ",
   },
   {
     id:3,
     profilePicture: "assets/person/3.jpg",
-    username: "Fratele Zelenski",
+    username: "Dora",
   },
   {
     id:4,
